@@ -1,0 +1,11 @@
+c:\users\vaxo\documents\visual studio 2015\Projects\HeatAndMassTransferModel\HeatAndMassTransferModel\bin\Debug\HeatAndMassTransferModel.exe.config
+c:\users\vaxo\documents\visual studio 2015\Projects\HeatAndMassTransferModel\HeatAndMassTransferModel\bin\Debug\HeatAndMassTransferModel.exe
+c:\users\vaxo\documents\visual studio 2015\Projects\HeatAndMassTransferModel\HeatAndMassTransferModel\bin\Debug\HeatAndMassTransferModel.pdb
+c:\users\vaxo\documents\visual studio 2015\Projects\HeatAndMassTransferModel\HeatAndMassTransferModel\obj\Debug\HeatAndMassTransferModel.csprojResolveAssemblyReference.cache
+c:\users\vaxo\documents\visual studio 2015\Projects\HeatAndMassTransferModel\HeatAndMassTransferModel\obj\Debug\HeatAndMassTransferModel.Form1.resources
+c:\users\vaxo\documents\visual studio 2015\Projects\HeatAndMassTransferModel\HeatAndMassTransferModel\obj\Debug\HeatAndMassTransferModel.Properties.Resources.resources
+c:\users\vaxo\documents\visual studio 2015\Projects\HeatAndMassTransferModel\HeatAndMassTransferModel\obj\Debug\HeatAndMassTransferModel.csproj.GenerateResource.Cache
+c:\users\vaxo\documents\visual studio 2015\Projects\HeatAndMassTransferModel\HeatAndMassTransferModel\obj\Debug\HeatAndMassTransferModel.exe
+c:\users\vaxo\documents\visual studio 2015\Projects\HeatAndMassTransferModel\HeatAndMassTransferModel\obj\Debug\HeatAndMassTransferModel.pdb
+c:\users\vaxo\documents\visual studio 2015\Projects\HeatAndMassTransferModel\HeatAndMassTransferModel\obj\Debug\HeatAndMassTransferModel.Form2.resources
+c:\users\vaxo\documents\visual studio 2015\Projects\HeatAndMassTransferModel\HeatAndMassTransferModel\obj\Debug\HeatAndMassTransferModel.Form3.resources
